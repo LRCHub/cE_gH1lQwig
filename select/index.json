@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "チューストライク",
+  "base_artist": "NMB48",
+  "createdAt": "2026-03-29T15:25:50.633386Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チューストライク",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/pl_01_チューストライク_NMB48.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "チューストライク",
+      "artist": "NMB48",
+      "has_synced": false,
+      "path": "select/localdb_01_チューストライク_NMB48.txt",
+      "repo_name": "oe1gkAsGuBA"
+    }
+  ]
+}
